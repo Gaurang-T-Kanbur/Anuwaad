@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Anuwaad/static/css/main.7d8791c3.css",
+    "main.js": "/Anuwaad/static/js/main.63a97d22.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Anuwaad/static/js/787.28cb0dcd.chunk.js",
+    "static/media/antest.jfif": "/Anuwaad/static/media/antest.b0cf1123926452b9dbad.jfif",
+    "static/media/an1.jpg": "/Anuwaad/static/media/an1.8477bb2ca0c2b31a5cd5.jpg",
+    "index.html": "/Anuwaad/index.html",
+    "main.7d8791c3.css.map": "/Anuwaad/static/css/main.7d8791c3.css.map",
+    "main.63a97d22.js.map": "/Anuwaad/static/js/main.63a97d22.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Anuwaad/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d8791c3.css",
+    "static/js/main.63a97d22.js"
+  ]
+}
